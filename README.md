@@ -10,11 +10,18 @@ Este projeto apresenta um dashboard interativo desenvolvido no Power BI, com foc
   - Midwest
   - Northeast
   - West
-
+- Filtro interativo por **Gênero**
+- Gráfico de **linhas** comparando as vendas dos gêneros por idade:
+ - Filtro interativo por **Região**
+  - South
+  - Midwest
+  - Northeast
+  - West
+- Gráfico de **colunas** comparando as categorias por região:
 
 ## Objetivo
 
-Permitir uma análise rápida e clara das **regiões com maior volume de vendas**, auxiliando na **tomada de decisão estratégica** por área geográfica ao longo do ano.
+Permitir uma análise rápida e clara das **regiões com maior volume de vendas**, distribuição de  idade e gênero e comparação de vendas por categoria,  auxiliando na **tomada de decisão estratégica** ao longo do ano.
 
 ## Tecnologias utilizadas
 
