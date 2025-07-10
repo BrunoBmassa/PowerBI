@@ -2,7 +2,7 @@
 
 Este projeto apresenta um dashboard interativo desenvolvido no Power BI, com foco na visualização das vendas por região dos Estados Unidos ao longo dos meses do ano.
 
-![Dashboard Preview](Relatorio.png)
+![Dashboard Preview](Relatorio de Vendas.png)
 
 ## Funcionalidades
 
