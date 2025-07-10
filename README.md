@@ -2,7 +2,6 @@
 
 Este projeto apresenta um dashboard interativo desenvolvido no Power BI, com foco na visualização das vendas por região dos Estados Unidos ao longo dos meses do ano.
 
-Total por categoria e região.png
 ## Funcionalidades
 
 - Filtro interativo por **mês** (janeiro a dezembro)
