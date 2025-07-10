@@ -1,6 +1,6 @@
- Dashboard de Vendas por Região - Power BI
+ Dashboard de Vendas - Power BI
 
-Este projeto apresenta um dashboard interativo desenvolvido no Power BI, com foco na visualização das vendas por região dos Estados Unidos ao longo dos meses do ano.
+Este projeto apresenta um dashboard interativo desenvolvido no Power BI, com foco na visualização das vendas por gênero, idade e região dos Estados Unidos ao longo dos meses do ano.
 
 ## Funcionalidades
 
@@ -10,6 +10,7 @@ Este projeto apresenta um dashboard interativo desenvolvido no Power BI, com foc
   - Midwest
   - Northeast
   - West
+
 
 ## Objetivo
 
