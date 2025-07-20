@@ -1,31 +1,61 @@
- Dashboard de Vendas - Power BI
+# Sales Dashboard - Power BI
 
-Este projeto apresenta um dashboard interativo desenvolvido no Power BI, com foco na visualização das vendas por gênero, idade e região dos Estados Unidos ao longo dos meses do ano.
+Interactive dashboard project developed in Power BI for analyzing sales by gender, age, and region in the United States over the months of the year.
 
-## Funcionalidades
+---
 
-- Filtro interativo por **mês** (janeiro a dezembro)
-- Gráfico de **barras horizontais** comparando as regiões:
-  - South
-  - Midwest
-  - Northeast
-  - West
-- Filtro interativo por **Gênero**
-- Gráfico de **linhas** comparando as vendas dos gêneros por idade:
- - Filtro interativo por **Região**
-  - South
-  - Midwest
-  - Northeast
-  - West
-- Gráfico de **colunas** comparando as categorias por região:
+## Features
 
-## Objetivo
+- Interactive filters by month (January to December)  
+- Region filter (South, Midwest, Northeast, West)  
+- Gender filter  
+- Horizontal bar chart comparing regions  
+- Line chart comparing sales by gender and age  
+- Column chart comparing categories by region  
+- Visualizations to support strategic decision-making throughout the year  
 
-Permitir uma análise rápida e clara das **regiões com maior volume de vendas**, distribuição de  idade e gênero e comparação de vendas por categoria,  auxiliando na **tomada de decisão estratégica** ao longo do ano.
+---
 
-## Tecnologias utilizadas
+## Technologies Used
 
-- Power BI Desktop
-- Power Query (ETL)
-- DAX (para medidas, se aplicável)
-- GitHub (versionamento e portfólio)
+- Power BI Desktop  
+- Power Query (ETL)  
+- DAX (for measures and calculations)  
+- GitHub (version control and portfolio)  
+
+---
+
+## How to Use
+
+1. Clone or download the repository.  
+2. Open the file `Dashboard_vendas.pbix` in Power BI Desktop.  
+3. Make sure the `.csv` data files are in the `/data` folder (if applicable).  
+4. Refresh the connections and recalculate data as needed.  
+5. Explore the dashboard using the available filters for analysis.  
+
+---
+
+## Repository Structure
+
+- `/data` - CSV files with sales data by year (e.g., `sales-2003.csv`, `sales-2004.csv`, etc.)  
+- `/dashboards` - Power BI `.pbix` files (e.g., `Dashboard_vendas.pbix`, `Sales.pbix`, `Sales_Profits.pbix`)  
+- `/images` - Screenshots and dashboard visualization images (e.g., `Monthly_sales_distribution_by_region.png`, `Sales_Report.png`, etc.)  
+- `README.md` - Project documentation  
+
+---
+
+## Data
+
+The data refers to monthly sales by category, region, gender, and age in the United States. For more details about the data source and processing, see the files in the `/data` folder.
+
+---
+
+## License
+
+This project is licensed under the MIT License. See the `LICENSE` file for details.
+
+---
+
+## Author
+
+Bruno Brehmer Massaneiro
