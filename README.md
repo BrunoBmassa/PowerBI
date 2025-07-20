@@ -1,4 +1,4 @@
-![Dashboard Preview](./images/Relatorio_Vendas.png)
+![Dashboard Preview](./images/vendas_região.png)
 
 # Sales Dashboard - Power BI
 
