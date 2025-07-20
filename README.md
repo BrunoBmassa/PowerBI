@@ -1,4 +1,4 @@
-![Dashboard Preview](./images/vendas_região.png)
+![Dashboard Preview](vendas_região.png)
 
 # Sales Dashboard - Power BI
 
