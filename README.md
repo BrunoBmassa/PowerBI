@@ -1,3 +1,5 @@
+![Dashboard Preview](./images/Relatorio_de_Vendas.png)
+
 # Sales Dashboard - Power BI
 
 Interactive dashboard project developed in Power BI for analyzing sales by gender, age, and region in the United States over the months of the year.
